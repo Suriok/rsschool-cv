@@ -29,4 +29,9 @@ Do not have any experiance
 - Course:
     - [IT Academy step](https://cloud.itstep.org/ru?gclid=Cj0KCQiAmNeqBhD4ARIsADsYfTebdCslCWwOAhjhfr8FFgTlkrMDCnCsJiYWUWzjzMsyCB55HBkoxbEaAjp-EALw_wcB)
     - [Поколение Python](https://stepik.org/course/58852/syllabus)
+ ## Language
+- English (Pre - Inermediiate)
+- Russian (Native)
+- Ukraine (Intermediate)
+- Czech (Intermediate)
 
