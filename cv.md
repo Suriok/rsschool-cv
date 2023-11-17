@@ -11,3 +11,22 @@ I’m a first year studen of CZU. My university teaches general knowledge about 
 - CSS(basic)
 - Python
 - Adobe Photoshop
+## Code example
+```python
+ n = int(input())
+third_dig = n % 10
+
+while n > 99:
+    firs_dig = n % 10
+    n = n // 10
+    third_dig = firs_dig
+print(third_dig)
+```
+## Experience
+Do not have any experiance
+## Education
+- University: University of Life Science Prague; Informatica
+- Course:
+    - [IT Academy step](https://cloud.itstep.org/ru?gclid=Cj0KCQiAmNeqBhD4ARIsADsYfTebdCslCWwOAhjhfr8FFgTlkrMDCnCsJiYWUWzjzMsyCB55HBkoxbEaAjp-EALw_wcB)
+    - [Поколение Python](https://stepik.org/course/58852/syllabus)
+
