@@ -28,7 +28,7 @@
 
 .blok1{
     background-color: #363836;
-    width: 30%;
+    
     display:block;
     height: 100%;
     box-sizing: border-box; 
@@ -39,5 +39,14 @@
 
 .blok2{
    
-    display: block;
+    display:block;
+    height: 100%;
+    box-sizing: border-box; 
+    padding: 2%;
+    font-style: normal solid #FFFFFC;
+}
+
+.icon{
+    width: 50px;
+    height: 50px;
 }
