@@ -1,0 +1,109 @@
+.wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    height: 100%;
+    max-width: 100%;
+    justify-content: center;  
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    box-shadow: #363836;
+}
+.foto img{
+    width: 35vh;
+    height: 35vh;
+    display: flex;
+    border-radius: 50%;  
+    border: 1px solid #393B38;
+    margin: 15%;
+    margin-bottom: 10%;
+}
+.wrapper_text{
+    padding-top: -4px;
+    padding-left: 50px;
+    color: #ddddda;
+}
+.wrapper_name{
+    text-align: center;
+    justify-content: center;
+    
+}
+
+.blok1{
+    background-color: #363836;
+    max-width: 50%;
+    display:block;
+    height: 100%;
+    box-sizing: border-box; 
+    padding: 2%;
+    font-style: normal solid;
+    color: #ddddda;
+      
+}
+
+.blok2{
+   background-color:#FCFCFC;
+    display:block;
+    min-height: 100%;
+    box-sizing: border-box; 
+    padding: 2%;
+    font-style: normal solid;
+    max-width: 50%;
+    color: #363836;
+}
+
+.wrapper_text2{
+    padding-top: -4px;
+    padding-left: 50px;
+    color: #363836;
+}
+
+.line{
+    width:50%;
+    justify-content: center;
+    
+}
+
+.line_bl2{
+    width:85%;
+    background-color:#363836 ;
+}
+
+.link{
+    margin-left: 80px;
+}
+
+.git{
+    color: #ddddda;
+    text-decoration: none;
+    
+}
+
+
+footer{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #363836;
+    width: 1220px;
+    height: 10%;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+
+.image img{
+    width: 100px;
+    height: 100px;
+}
+
+.text{
+    padding-top: 1%;
+}
+
+.git_logo img{
+    width: 50px;
+    height: 50px;
+    
+}
+
